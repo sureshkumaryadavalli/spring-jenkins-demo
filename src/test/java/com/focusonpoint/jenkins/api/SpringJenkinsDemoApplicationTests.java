@@ -14,7 +14,6 @@ class SpringJenkinsDemoApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test Case Executing....");
-		logger.info("Test Case Executing new statement....");
 		assertEquals("yes","yes");
 		logger.info("Test Case Execution Completed....");
 	}
